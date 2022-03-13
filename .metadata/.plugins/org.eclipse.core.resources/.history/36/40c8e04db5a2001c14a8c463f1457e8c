@@ -1,0 +1,25 @@
+package simplilearnFinalProject;
+
+import java.util.Scanner;
+
+public class ClientApp {
+
+	public static void main(String[] args) 
+	{
+		Scanner obj=new Scanner(System.in);
+		int ch;
+		
+		do 
+		{
+			LockedMe.displayMenu();
+			System.out.println("Enter Your Choice: ");
+			ch=Integer.parseInt(obj.nextLine());
+		}
+		
+				
+		
+		obj.next();
+
+	}
+
+}

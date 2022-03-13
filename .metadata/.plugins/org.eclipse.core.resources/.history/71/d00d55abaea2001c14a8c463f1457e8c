@@ -1,0 +1,18 @@
+package simplilearnFinalProject;
+
+public class LockedMe {
+
+	public static void displayMenu() 
+	{
+		System.out.println("****************************************");
+		System.out.println("\t\tWelocome to LockedMe.com secure app");
+		System.out.println("Developed by : Rameshwar M. Katkar");
+		System.out.println("****************************************");
+		System.out.println("\t\t1. Display all files");
+		System.out.println("\t\t2. Display all files");
+		System.out.println("\t\t3. Display all files");
+		System.out.println("\t\t4. Display all files");
+		System.out.println("\t\t5. Display all files");
+		System.out.println("\t\t6. Display all files");
+	}
+}
